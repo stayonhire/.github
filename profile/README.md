@@ -1,1 +1,1 @@
-StayOnHire
+# Idle Australia
